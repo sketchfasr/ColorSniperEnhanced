@@ -1,2 +1,1 @@
-# ColorSniperEnhanced
 COMING SOON. Color Sniper Enhanced will be based on sicko's snipe color feature, but better(enhanced). CSE will have the full 15 color list with a priority system. Example: Cyan is priority #1, purple is priority #2, lime is priority #3 and so on
